@@ -33,8 +33,8 @@ public class Lab008 {
             double d = 118.654;
 
 
-            // Non primitive Data Types
-            // String  name -> "pramod" -, number or char or bunch of char
+            // Non-primitive Data Types
+            // String  name -> "pramod" -, number of char or a bunch of char
             String name = "Pramod";
             String name2 = "p";
 //        char cc = "c";
